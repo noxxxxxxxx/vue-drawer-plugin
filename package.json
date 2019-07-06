@@ -23,6 +23,7 @@
     "components"
   ],
   "license": "MIT",
+  "repository": "git@github.com:noxxxxxxxx/vue-drawer-plugin.git",
   "bugs": {
     "url": "https://github.com/noxxxxxxxx/vue-drawer-plugin/issues"
   },

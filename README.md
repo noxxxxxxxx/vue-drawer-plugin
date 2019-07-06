@@ -1,11 +1,11 @@
 # Vue-Drawer-Plugin
 
+A panel which slides in from the edge of the screen.
+
 [![codecov](https://codecov.io/gh/noxxxxxxxx/vue-drawer-plugin/branch/dev/graph/badge.svg)](https://codecov.io/gh/noxxxxxxxx/vue-drawer-plugin)
 [![vuejs version](https://img.shields.io/badge/VueJs-2.x-green.svg)](https://img.shields.io/badge/VueJs-2.x-green.svg) [![Liscense](https://img.shields.io/github/license/noxxxxxxxx/drawer.svg?color=green&label=LICENSE)](https://img.shields.io/github/license/noxxxxxxxx/drawer.svg?color=green&label=LICENSE)
 [![Build Status](https://travis-ci.com/noxxxxxxxx/vue-drawer-plugin.svg?branch=dev)](https://travis-ci.com/noxxxxxxxx/vue-drawer-plugin)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-A panel which slides in from the edge of the screen.
 
 ## When To Use
 
