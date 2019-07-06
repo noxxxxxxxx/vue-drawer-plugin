@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "lts/*"
+branches:
+  only:
+  - dev
+cache:
+  directories:
+    - node_modules
+install:
+  - yarn install
+script:
+  - yarn run test:unit
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
